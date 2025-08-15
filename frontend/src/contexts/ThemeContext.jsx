@@ -3,7 +3,7 @@ import chroma from "chroma-js";
 
 const ThemeContext = createContext();
 
-const BASE_API_URL = import.meta.env.VITE_API_BASE_URL || 'https://h2fqo38sa8.execute-api.us-east-1.amazonaws.com';
+const BASE_API_URL = import.meta.env.VITE_API_BASE_URL || 'https://shhcm1r44e.execute-api.us-east-1.amazonaws.com';
 
 const defaultThemeSettings = {
   primaryColor: "#0d6efd",
